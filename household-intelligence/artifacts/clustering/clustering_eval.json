@@ -1,0 +1,33 @@
+{
+  "best_k": 5,
+  "scores_by_k": {
+    "2": {
+      "silhouette": 0.1861,
+      "davies_bouldin": 2.0793
+    },
+    "3": {
+      "silhouette": 0.2074,
+      "davies_bouldin": 1.7203
+    },
+    "4": {
+      "silhouette": 0.2288,
+      "davies_bouldin": 1.5493
+    },
+    "5": {
+      "silhouette": 0.2405,
+      "davies_bouldin": 1.411
+    },
+    "6": {
+      "silhouette": 0.2329,
+      "davies_bouldin": 1.3452
+    },
+    "7": {
+      "silhouette": 0.211,
+      "davies_bouldin": 1.3337
+    },
+    "8": {
+      "silhouette": 0.2286,
+      "davies_bouldin": 1.2683
+    }
+  }
+}

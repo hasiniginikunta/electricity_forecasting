@@ -1,0 +1,13 @@
+[SYNTHETIC DATA EVALUATION - Clustering]
+  Best K : 5
+  Silhouette Score : 0.2405 (higher is better, max 1.0)
+  Davies-Bouldin   : 1.411 (lower is better)
+
+  All K scores:
+    K=2: silhouette=0.1861, DB=2.0793
+    K=3: silhouette=0.2074, DB=1.7203
+    K=4: silhouette=0.2288, DB=1.5493
+    K=5: silhouette=0.2405, DB=1.411
+    K=6: silhouette=0.2329, DB=1.3452
+    K=7: silhouette=0.211, DB=1.3337
+    K=8: silhouette=0.2286, DB=1.2683
