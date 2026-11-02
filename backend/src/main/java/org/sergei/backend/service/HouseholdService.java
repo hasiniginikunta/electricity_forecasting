@@ -60,6 +60,13 @@ public class HouseholdService {
         return HouseholdResponse.from(householdRepository.save(h));
     }
 
+    public HouseholdResponse getByUserId(Long userId) {
+        authorizationService.requireSameUser(userId);
+        return householdRepository.findByUserId(userId)
+                .map(HouseholdResponse::from)
+                .orElseThrow(() -> new ResourceNotFoundException("No household found for user: " + userId));
+    }
+
     private Household find(Long id) {
         return householdRepository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException("Household not found with id: " + id));

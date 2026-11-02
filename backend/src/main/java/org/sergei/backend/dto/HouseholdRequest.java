@@ -5,7 +5,7 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 
 public record HouseholdRequest(
-        @NotNull Long userId,
+        Long userId,
         @NotNull @Positive Integer householdSize,
         @NotBlank String city,
         @NotBlank String state,
