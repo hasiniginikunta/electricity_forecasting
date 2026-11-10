@@ -1,0 +1,301 @@
+household_id,state,n_residents,home_type,home_size_m2,has_solar,has_air_conditioner,has_inverter_ac,has_electric_vehicle,has_electric_water_heater,data_source
+H0001,Telangana,3,flat,241.0,False,True,False,False,False,SYNTHETIC
+H0002,Tamil Nadu,3,house,73.0,False,False,False,False,True,SYNTHETIC
+H0003,Karnataka,3,house,99.0,False,False,False,False,True,SYNTHETIC
+H0004,Telangana,5,flat,292.0,False,True,True,False,False,SYNTHETIC
+H0005,Rajasthan,6,house,233.0,False,True,True,False,True,SYNTHETIC
+H0006,Maharashtra,4,apartment,98.0,False,False,False,False,False,SYNTHETIC
+H0007,Karnataka,3,house,249.0,False,True,True,True,False,SYNTHETIC
+H0008,Gujarat,4,flat,212.0,False,False,False,False,True,SYNTHETIC
+H0009,Karnataka,3,apartment,213.0,False,False,False,False,True,SYNTHETIC
+H0010,Gujarat,1,apartment,119.0,False,True,False,False,True,SYNTHETIC
+H0011,Gujarat,2,apartment,113.0,False,False,False,False,True,SYNTHETIC
+H0012,Karnataka,2,house,251.0,True,False,False,False,True,SYNTHETIC
+H0013,Rajasthan,2,apartment,170.0,False,True,True,False,True,SYNTHETIC
+H0014,Rajasthan,2,villa,62.0,False,False,False,False,False,SYNTHETIC
+H0015,Maharashtra,4,apartment,242.0,False,True,False,False,True,SYNTHETIC
+H0016,Delhi,3,house,119.0,False,False,False,False,True,SYNTHETIC
+H0017,Maharashtra,3,apartment,203.0,True,True,True,False,True,SYNTHETIC
+H0018,Delhi,2,apartment,77.0,False,False,False,False,True,SYNTHETIC
+H0019,Tamil Nadu,1,villa,193.0,False,False,False,False,True,SYNTHETIC
+H0020,Delhi,6,apartment,167.0,False,True,True,False,True,SYNTHETIC
+H0021,Maharashtra,5,flat,45.0,True,False,False,False,False,SYNTHETIC
+H0022,Telangana,4,apartment,113.0,False,True,False,False,True,SYNTHETIC
+H0023,Andhra Pradesh,3,flat,184.0,False,True,False,False,True,SYNTHETIC
+H0024,Rajasthan,6,house,106.0,True,True,False,False,False,SYNTHETIC
+H0025,Gujarat,5,apartment,271.0,False,False,False,False,True,SYNTHETIC
+H0026,Rajasthan,4,house,64.0,False,True,True,False,True,SYNTHETIC
+H0027,Delhi,3,flat,86.0,False,True,False,False,True,SYNTHETIC
+H0028,Karnataka,1,house,77.0,True,False,False,False,True,SYNTHETIC
+H0029,Rajasthan,3,house,220.0,False,False,False,False,True,SYNTHETIC
+H0030,Karnataka,6,house,72.0,False,True,False,False,True,SYNTHETIC
+H0031,Rajasthan,1,apartment,280.0,False,True,True,False,False,SYNTHETIC
+H0032,Andhra Pradesh,6,flat,194.0,False,False,False,True,True,SYNTHETIC
+H0033,Maharashtra,4,house,255.0,False,False,False,False,False,SYNTHETIC
+H0034,Maharashtra,3,apartment,147.0,False,False,False,False,True,SYNTHETIC
+H0035,Maharashtra,4,flat,101.0,True,True,False,False,False,SYNTHETIC
+H0036,Maharashtra,2,villa,120.0,False,True,True,False,True,SYNTHETIC
+H0037,Delhi,2,house,54.0,False,False,False,False,True,SYNTHETIC
+H0038,Rajasthan,5,flat,171.0,True,True,True,False,True,SYNTHETIC
+H0039,Rajasthan,1,house,148.0,False,True,False,False,False,SYNTHETIC
+H0040,Delhi,5,villa,65.0,False,False,False,False,False,SYNTHETIC
+H0041,Tamil Nadu,2,apartment,242.0,False,False,False,False,True,SYNTHETIC
+H0042,Delhi,2,house,206.0,False,True,True,False,True,SYNTHETIC
+H0043,Delhi,3,apartment,125.0,False,False,False,False,True,SYNTHETIC
+H0044,Gujarat,3,flat,125.0,False,False,False,False,False,SYNTHETIC
+H0045,Telangana,4,house,114.0,False,False,False,False,False,SYNTHETIC
+H0046,Delhi,4,house,64.0,False,True,False,False,True,SYNTHETIC
+H0047,Karnataka,4,villa,243.0,False,False,False,False,False,SYNTHETIC
+H0048,Andhra Pradesh,3,apartment,84.0,False,True,False,False,True,SYNTHETIC
+H0049,Andhra Pradesh,6,house,195.0,True,True,False,False,False,SYNTHETIC
+H0050,Andhra Pradesh,2,flat,214.0,False,True,True,False,True,SYNTHETIC
+H0051,Rajasthan,6,apartment,78.0,False,False,False,False,False,SYNTHETIC
+H0052,Maharashtra,3,house,242.0,False,False,False,False,True,SYNTHETIC
+H0053,Maharashtra,4,house,261.0,False,False,False,True,True,SYNTHETIC
+H0054,Delhi,2,apartment,254.0,False,True,False,False,True,SYNTHETIC
+H0055,Karnataka,5,house,299.0,False,True,False,False,False,SYNTHETIC
+H0056,Tamil Nadu,5,house,63.0,False,True,False,False,False,SYNTHETIC
+H0057,Maharashtra,1,house,210.0,True,False,False,False,True,SYNTHETIC
+H0058,Maharashtra,1,flat,260.0,False,False,False,False,False,SYNTHETIC
+H0059,Karnataka,2,house,50.0,False,False,False,False,False,SYNTHETIC
+H0060,Karnataka,4,house,80.0,False,False,False,False,False,SYNTHETIC
+H0061,Tamil Nadu,4,house,54.0,False,False,False,False,True,SYNTHETIC
+H0062,Gujarat,6,apartment,87.0,False,False,False,False,True,SYNTHETIC
+H0063,Andhra Pradesh,2,apartment,285.0,False,False,False,False,True,SYNTHETIC
+H0064,Karnataka,3,apartment,172.0,True,True,True,False,True,SYNTHETIC
+H0065,Gujarat,4,apartment,198.0,False,True,False,False,True,SYNTHETIC
+H0066,Maharashtra,3,house,148.0,False,False,False,False,False,SYNTHETIC
+H0067,Tamil Nadu,2,flat,209.0,False,True,False,False,True,SYNTHETIC
+H0068,Gujarat,5,villa,231.0,False,True,False,False,False,SYNTHETIC
+H0069,Karnataka,2,house,168.0,False,True,True,False,True,SYNTHETIC
+H0070,Delhi,4,house,121.0,False,False,False,False,True,SYNTHETIC
+H0071,Andhra Pradesh,2,house,196.0,False,False,False,False,True,SYNTHETIC
+H0072,Gujarat,4,house,218.0,False,True,True,False,True,SYNTHETIC
+H0073,Delhi,5,villa,83.0,False,False,False,False,True,SYNTHETIC
+H0074,Tamil Nadu,3,house,156.0,False,True,True,False,True,SYNTHETIC
+H0075,Andhra Pradesh,1,house,275.0,False,True,False,False,True,SYNTHETIC
+H0076,Maharashtra,5,apartment,103.0,False,False,False,False,True,SYNTHETIC
+H0077,Delhi,3,house,135.0,False,True,False,False,True,SYNTHETIC
+H0078,Karnataka,3,flat,276.0,False,True,False,False,True,SYNTHETIC
+H0079,Rajasthan,4,house,278.0,False,True,True,False,True,SYNTHETIC
+H0080,Karnataka,3,house,119.0,False,False,False,False,False,SYNTHETIC
+H0081,Gujarat,3,flat,201.0,False,False,False,False,False,SYNTHETIC
+H0082,Karnataka,2,apartment,265.0,False,False,False,False,False,SYNTHETIC
+H0083,Telangana,2,apartment,295.0,False,True,True,True,False,SYNTHETIC
+H0084,Rajasthan,6,apartment,167.0,False,True,False,False,True,SYNTHETIC
+H0085,Tamil Nadu,6,flat,248.0,True,True,True,False,False,SYNTHETIC
+H0086,Gujarat,4,flat,225.0,False,False,False,True,True,SYNTHETIC
+H0087,Telangana,5,house,201.0,False,False,False,True,True,SYNTHETIC
+H0088,Delhi,4,house,272.0,False,True,False,False,True,SYNTHETIC
+H0089,Karnataka,2,flat,143.0,False,True,True,False,False,SYNTHETIC
+H0090,Tamil Nadu,2,apartment,299.0,True,False,False,False,False,SYNTHETIC
+H0091,Delhi,3,villa,194.0,False,True,True,False,True,SYNTHETIC
+H0092,Tamil Nadu,3,apartment,44.0,False,True,False,False,True,SYNTHETIC
+H0093,Rajasthan,5,house,113.0,False,False,False,False,False,SYNTHETIC
+H0094,Andhra Pradesh,4,house,193.0,False,True,True,False,True,SYNTHETIC
+H0095,Telangana,4,flat,185.0,False,True,False,False,False,SYNTHETIC
+H0096,Delhi,4,house,274.0,False,True,False,False,True,SYNTHETIC
+H0097,Rajasthan,1,villa,152.0,True,True,True,False,True,SYNTHETIC
+H0098,Maharashtra,2,house,174.0,True,True,True,False,True,SYNTHETIC
+H0099,Rajasthan,3,apartment,118.0,True,True,False,True,True,SYNTHETIC
+H0100,Maharashtra,2,apartment,167.0,False,False,False,False,True,SYNTHETIC
+H0101,Tamil Nadu,3,apartment,103.0,False,True,False,True,True,SYNTHETIC
+H0102,Gujarat,2,house,225.0,True,False,False,True,True,SYNTHETIC
+H0103,Gujarat,2,apartment,48.0,False,False,False,False,False,SYNTHETIC
+H0104,Karnataka,5,apartment,41.0,False,False,False,False,True,SYNTHETIC
+H0105,Andhra Pradesh,3,apartment,278.0,False,True,False,False,False,SYNTHETIC
+H0106,Telangana,2,apartment,196.0,False,True,True,False,True,SYNTHETIC
+H0107,Delhi,4,apartment,83.0,False,True,False,False,True,SYNTHETIC
+H0108,Gujarat,4,house,77.0,False,False,False,True,True,SYNTHETIC
+H0109,Tamil Nadu,3,house,298.0,False,False,False,False,False,SYNTHETIC
+H0110,Andhra Pradesh,1,apartment,111.0,False,False,False,False,True,SYNTHETIC
+H0111,Telangana,2,flat,194.0,False,False,False,False,True,SYNTHETIC
+H0112,Gujarat,4,apartment,216.0,False,False,False,False,True,SYNTHETIC
+H0113,Rajasthan,4,apartment,43.0,False,True,False,False,False,SYNTHETIC
+H0114,Karnataka,6,house,78.0,False,False,False,False,True,SYNTHETIC
+H0115,Maharashtra,4,flat,162.0,False,True,False,False,False,SYNTHETIC
+H0116,Rajasthan,2,villa,188.0,False,False,False,False,True,SYNTHETIC
+H0117,Karnataka,1,villa,233.0,False,False,False,False,True,SYNTHETIC
+H0118,Delhi,4,apartment,122.0,False,False,False,False,True,SYNTHETIC
+H0119,Telangana,3,house,91.0,True,True,False,False,False,SYNTHETIC
+H0120,Delhi,1,flat,103.0,False,True,True,False,True,SYNTHETIC
+H0121,Telangana,2,house,161.0,False,False,False,False,True,SYNTHETIC
+H0122,Rajasthan,2,house,68.0,False,False,False,False,False,SYNTHETIC
+H0123,Tamil Nadu,6,house,295.0,True,True,False,False,False,SYNTHETIC
+H0124,Delhi,3,house,200.0,False,True,False,False,False,SYNTHETIC
+H0125,Delhi,3,apartment,116.0,False,False,False,False,False,SYNTHETIC
+H0126,Karnataka,5,house,71.0,False,False,False,False,True,SYNTHETIC
+H0127,Telangana,2,apartment,156.0,False,False,False,False,True,SYNTHETIC
+H0128,Delhi,2,house,104.0,False,False,False,False,True,SYNTHETIC
+H0129,Maharashtra,3,apartment,167.0,False,True,True,False,True,SYNTHETIC
+H0130,Gujarat,2,apartment,287.0,False,True,True,False,False,SYNTHETIC
+H0131,Telangana,4,apartment,123.0,False,True,True,False,False,SYNTHETIC
+H0132,Gujarat,3,house,232.0,False,True,True,False,False,SYNTHETIC
+H0133,Delhi,4,flat,201.0,False,False,False,False,False,SYNTHETIC
+H0134,Gujarat,6,house,40.0,True,True,True,False,False,SYNTHETIC
+H0135,Karnataka,6,house,142.0,False,True,False,False,True,SYNTHETIC
+H0136,Tamil Nadu,2,house,287.0,False,False,False,True,True,SYNTHETIC
+H0137,Maharashtra,4,villa,272.0,False,False,False,False,False,SYNTHETIC
+H0138,Delhi,4,apartment,135.0,False,False,False,False,False,SYNTHETIC
+H0139,Maharashtra,4,house,149.0,False,True,True,False,False,SYNTHETIC
+H0140,Andhra Pradesh,4,house,210.0,False,True,False,False,True,SYNTHETIC
+H0141,Rajasthan,2,house,213.0,True,True,False,False,True,SYNTHETIC
+H0142,Rajasthan,4,villa,180.0,False,True,False,False,False,SYNTHETIC
+H0143,Tamil Nadu,4,house,143.0,False,False,False,False,True,SYNTHETIC
+H0144,Andhra Pradesh,5,house,283.0,False,True,False,False,True,SYNTHETIC
+H0145,Karnataka,6,flat,277.0,False,False,False,False,False,SYNTHETIC
+H0146,Telangana,3,house,164.0,False,True,True,False,True,SYNTHETIC
+H0147,Maharashtra,5,flat,96.0,False,True,True,False,False,SYNTHETIC
+H0148,Andhra Pradesh,4,house,75.0,False,False,False,False,True,SYNTHETIC
+H0149,Telangana,4,villa,149.0,False,True,True,False,True,SYNTHETIC
+H0150,Karnataka,4,house,270.0,False,True,True,False,True,SYNTHETIC
+H0151,Maharashtra,4,villa,218.0,False,True,True,False,False,SYNTHETIC
+H0152,Maharashtra,3,apartment,122.0,True,False,False,False,False,SYNTHETIC
+H0153,Delhi,5,apartment,256.0,False,False,False,False,True,SYNTHETIC
+H0154,Andhra Pradesh,2,flat,272.0,True,True,False,False,True,SYNTHETIC
+H0155,Andhra Pradesh,3,flat,40.0,True,False,False,False,True,SYNTHETIC
+H0156,Telangana,5,flat,78.0,False,False,False,False,True,SYNTHETIC
+H0157,Tamil Nadu,2,flat,231.0,False,False,False,False,True,SYNTHETIC
+H0158,Karnataka,2,flat,96.0,True,True,True,False,False,SYNTHETIC
+H0159,Telangana,6,house,143.0,False,True,True,False,False,SYNTHETIC
+H0160,Rajasthan,2,house,266.0,False,True,False,False,True,SYNTHETIC
+H0161,Karnataka,4,house,255.0,True,False,False,False,True,SYNTHETIC
+H0162,Maharashtra,4,flat,148.0,False,True,True,False,True,SYNTHETIC
+H0163,Karnataka,4,house,186.0,True,True,False,False,True,SYNTHETIC
+H0164,Gujarat,3,apartment,271.0,False,True,True,False,True,SYNTHETIC
+H0165,Maharashtra,2,house,216.0,False,True,True,False,False,SYNTHETIC
+H0166,Andhra Pradesh,3,house,123.0,False,True,False,False,False,SYNTHETIC
+H0167,Telangana,1,house,281.0,True,False,False,False,False,SYNTHETIC
+H0168,Rajasthan,5,apartment,236.0,False,True,True,False,False,SYNTHETIC
+H0169,Telangana,5,house,189.0,False,True,True,False,True,SYNTHETIC
+H0170,Gujarat,3,house,143.0,False,True,True,False,True,SYNTHETIC
+H0171,Tamil Nadu,3,apartment,133.0,False,False,False,False,True,SYNTHETIC
+H0172,Gujarat,3,apartment,125.0,False,False,False,False,True,SYNTHETIC
+H0173,Rajasthan,3,house,129.0,False,False,False,False,True,SYNTHETIC
+H0174,Gujarat,4,house,186.0,False,False,False,False,False,SYNTHETIC
+H0175,Rajasthan,6,house,53.0,False,False,False,True,True,SYNTHETIC
+H0176,Rajasthan,3,house,216.0,False,False,False,False,True,SYNTHETIC
+H0177,Karnataka,4,house,41.0,False,True,False,False,True,SYNTHETIC
+H0178,Karnataka,3,apartment,241.0,False,False,False,False,True,SYNTHETIC
+H0179,Rajasthan,5,house,194.0,True,False,False,False,True,SYNTHETIC
+H0180,Delhi,4,apartment,295.0,False,True,True,False,False,SYNTHETIC
+H0181,Telangana,2,flat,113.0,True,True,True,False,True,SYNTHETIC
+H0182,Delhi,3,apartment,213.0,True,True,False,False,True,SYNTHETIC
+H0183,Tamil Nadu,2,house,89.0,False,True,False,False,True,SYNTHETIC
+H0184,Tamil Nadu,5,apartment,209.0,False,True,True,False,False,SYNTHETIC
+H0185,Karnataka,1,apartment,289.0,False,False,False,True,False,SYNTHETIC
+H0186,Gujarat,2,house,257.0,False,True,False,False,True,SYNTHETIC
+H0187,Delhi,3,house,143.0,False,True,True,False,False,SYNTHETIC
+H0188,Andhra Pradesh,5,apartment,64.0,False,False,False,False,False,SYNTHETIC
+H0189,Delhi,4,apartment,73.0,False,False,False,False,False,SYNTHETIC
+H0190,Gujarat,3,house,165.0,False,True,True,False,False,SYNTHETIC
+H0191,Delhi,6,apartment,155.0,True,True,True,False,True,SYNTHETIC
+H0192,Karnataka,6,villa,174.0,False,True,True,False,True,SYNTHETIC
+H0193,Andhra Pradesh,5,apartment,187.0,False,True,False,False,False,SYNTHETIC
+H0194,Tamil Nadu,2,house,286.0,False,True,False,False,False,SYNTHETIC
+H0195,Telangana,2,house,180.0,False,False,False,False,True,SYNTHETIC
+H0196,Gujarat,2,villa,227.0,False,True,True,False,True,SYNTHETIC
+H0197,Rajasthan,6,apartment,153.0,False,True,True,False,True,SYNTHETIC
+H0198,Delhi,1,villa,205.0,False,False,False,False,True,SYNTHETIC
+H0199,Gujarat,4,flat,253.0,False,False,False,False,False,SYNTHETIC
+H0200,Maharashtra,4,apartment,130.0,False,True,True,False,True,SYNTHETIC
+H0201,Telangana,3,house,231.0,False,True,True,False,False,SYNTHETIC
+H0202,Andhra Pradesh,2,house,272.0,False,True,True,False,True,SYNTHETIC
+H0203,Andhra Pradesh,4,apartment,269.0,False,True,True,False,True,SYNTHETIC
+H0204,Andhra Pradesh,2,apartment,120.0,False,True,True,False,False,SYNTHETIC
+H0205,Telangana,3,flat,251.0,False,True,True,False,True,SYNTHETIC
+H0206,Delhi,4,house,102.0,False,True,True,False,True,SYNTHETIC
+H0207,Rajasthan,4,villa,101.0,False,False,False,False,False,SYNTHETIC
+H0208,Karnataka,5,villa,199.0,False,True,True,True,True,SYNTHETIC
+H0209,Karnataka,3,apartment,168.0,False,False,False,False,True,SYNTHETIC
+H0210,Andhra Pradesh,5,villa,246.0,False,False,False,False,True,SYNTHETIC
+H0211,Delhi,4,villa,109.0,False,False,False,False,True,SYNTHETIC
+H0212,Andhra Pradesh,1,villa,90.0,False,False,False,False,True,SYNTHETIC
+H0213,Delhi,5,house,85.0,False,True,False,False,True,SYNTHETIC
+H0214,Rajasthan,6,house,111.0,False,True,True,False,False,SYNTHETIC
+H0215,Tamil Nadu,5,house,138.0,True,False,False,False,True,SYNTHETIC
+H0216,Andhra Pradesh,3,flat,94.0,True,True,False,False,True,SYNTHETIC
+H0217,Andhra Pradesh,3,apartment,90.0,False,False,False,False,False,SYNTHETIC
+H0218,Andhra Pradesh,3,villa,147.0,False,False,False,False,True,SYNTHETIC
+H0219,Karnataka,2,house,161.0,False,True,False,False,False,SYNTHETIC
+H0220,Delhi,2,house,109.0,True,False,False,False,True,SYNTHETIC
+H0221,Karnataka,3,house,260.0,False,False,False,False,True,SYNTHETIC
+H0222,Karnataka,5,flat,278.0,False,True,False,False,False,SYNTHETIC
+H0223,Tamil Nadu,2,flat,237.0,False,False,False,False,False,SYNTHETIC
+H0224,Andhra Pradesh,4,flat,177.0,False,True,True,False,True,SYNTHETIC
+H0225,Delhi,3,house,171.0,False,False,False,False,False,SYNTHETIC
+H0226,Maharashtra,3,house,216.0,False,False,False,False,False,SYNTHETIC
+H0227,Andhra Pradesh,3,apartment,295.0,False,False,False,False,True,SYNTHETIC
+H0228,Tamil Nadu,2,flat,267.0,False,False,False,False,True,SYNTHETIC
+H0229,Andhra Pradesh,2,apartment,240.0,False,False,False,True,True,SYNTHETIC
+H0230,Rajasthan,3,apartment,225.0,True,True,False,True,True,SYNTHETIC
+H0231,Karnataka,1,apartment,285.0,False,False,False,False,False,SYNTHETIC
+H0232,Maharashtra,3,flat,96.0,False,True,True,False,False,SYNTHETIC
+H0233,Telangana,4,apartment,205.0,False,True,False,False,False,SYNTHETIC
+H0234,Gujarat,2,apartment,251.0,True,False,False,False,False,SYNTHETIC
+H0235,Gujarat,2,house,126.0,True,True,True,False,True,SYNTHETIC
+H0236,Telangana,5,apartment,74.0,False,False,False,False,False,SYNTHETIC
+H0237,Karnataka,4,apartment,175.0,False,True,True,False,True,SYNTHETIC
+H0238,Karnataka,2,flat,79.0,False,False,False,False,True,SYNTHETIC
+H0239,Rajasthan,2,house,238.0,False,False,False,False,True,SYNTHETIC
+H0240,Andhra Pradesh,3,apartment,115.0,False,False,False,False,False,SYNTHETIC
+H0241,Tamil Nadu,4,house,215.0,False,True,True,False,True,SYNTHETIC
+H0242,Gujarat,2,flat,233.0,False,False,False,False,True,SYNTHETIC
+H0243,Telangana,6,apartment,201.0,False,False,False,False,True,SYNTHETIC
+H0244,Karnataka,3,villa,174.0,False,True,False,False,True,SYNTHETIC
+H0245,Karnataka,1,house,96.0,False,False,False,False,True,SYNTHETIC
+H0246,Andhra Pradesh,2,villa,188.0,False,False,False,False,False,SYNTHETIC
+H0247,Maharashtra,4,house,147.0,False,True,False,False,False,SYNTHETIC
+H0248,Gujarat,2,house,98.0,False,False,False,False,False,SYNTHETIC
+H0249,Telangana,4,flat,176.0,False,True,False,False,True,SYNTHETIC
+H0250,Rajasthan,6,villa,154.0,False,False,False,False,True,SYNTHETIC
+H0251,Delhi,3,apartment,182.0,False,True,False,False,True,SYNTHETIC
+H0252,Tamil Nadu,2,flat,73.0,False,True,False,False,True,SYNTHETIC
+H0253,Rajasthan,2,apartment,122.0,False,True,True,False,True,SYNTHETIC
+H0254,Telangana,2,apartment,260.0,False,True,True,False,False,SYNTHETIC
+H0255,Andhra Pradesh,2,villa,42.0,False,True,True,False,False,SYNTHETIC
+H0256,Andhra Pradesh,6,apartment,195.0,False,True,True,False,True,SYNTHETIC
+H0257,Telangana,4,house,131.0,False,False,False,False,False,SYNTHETIC
+H0258,Tamil Nadu,4,house,250.0,False,False,False,False,True,SYNTHETIC
+H0259,Gujarat,3,apartment,98.0,False,False,False,False,True,SYNTHETIC
+H0260,Tamil Nadu,1,villa,281.0,False,True,False,False,False,SYNTHETIC
+H0261,Andhra Pradesh,3,house,292.0,False,False,False,False,True,SYNTHETIC
+H0262,Delhi,2,apartment,188.0,True,False,False,False,True,SYNTHETIC
+H0263,Delhi,2,villa,172.0,False,True,True,False,True,SYNTHETIC
+H0264,Tamil Nadu,4,house,285.0,False,True,False,False,False,SYNTHETIC
+H0265,Karnataka,2,apartment,280.0,False,True,True,False,True,SYNTHETIC
+H0266,Maharashtra,3,flat,58.0,False,True,False,False,False,SYNTHETIC
+H0267,Telangana,6,apartment,156.0,True,False,False,False,True,SYNTHETIC
+H0268,Maharashtra,4,house,79.0,False,True,True,False,True,SYNTHETIC
+H0269,Maharashtra,1,apartment,112.0,False,False,False,False,True,SYNTHETIC
+H0270,Karnataka,3,house,104.0,False,True,False,False,True,SYNTHETIC
+H0271,Delhi,2,apartment,173.0,True,False,False,False,True,SYNTHETIC
+H0272,Rajasthan,4,house,196.0,False,False,False,False,False,SYNTHETIC
+H0273,Delhi,3,apartment,51.0,True,True,False,True,True,SYNTHETIC
+H0274,Telangana,2,apartment,259.0,False,True,True,False,False,SYNTHETIC
+H0275,Rajasthan,3,house,109.0,False,False,False,False,False,SYNTHETIC
+H0276,Rajasthan,3,flat,107.0,False,True,False,False,True,SYNTHETIC
+H0277,Rajasthan,2,house,293.0,True,True,True,False,True,SYNTHETIC
+H0278,Tamil Nadu,2,house,215.0,False,False,False,False,True,SYNTHETIC
+H0279,Telangana,3,house,261.0,False,True,True,False,True,SYNTHETIC
+H0280,Rajasthan,4,house,102.0,False,False,False,False,False,SYNTHETIC
+H0281,Karnataka,6,house,225.0,False,True,False,False,False,SYNTHETIC
+H0282,Maharashtra,6,house,43.0,True,True,True,False,True,SYNTHETIC
+H0283,Maharashtra,2,house,112.0,False,True,True,False,True,SYNTHETIC
+H0284,Andhra Pradesh,4,villa,92.0,False,True,False,False,False,SYNTHETIC
+H0285,Telangana,5,flat,238.0,False,False,False,False,True,SYNTHETIC
+H0286,Telangana,1,villa,281.0,False,True,False,True,False,SYNTHETIC
+H0287,Delhi,4,flat,247.0,True,True,True,True,True,SYNTHETIC
+H0288,Karnataka,3,apartment,108.0,False,True,False,False,True,SYNTHETIC
+H0289,Delhi,3,house,170.0,False,True,True,False,True,SYNTHETIC
+H0290,Karnataka,2,villa,254.0,False,False,False,False,True,SYNTHETIC
+H0291,Rajasthan,2,flat,176.0,False,True,False,False,True,SYNTHETIC
+H0292,Karnataka,1,apartment,227.0,False,True,False,False,False,SYNTHETIC
+H0293,Karnataka,6,flat,70.0,False,True,False,False,True,SYNTHETIC
+H0294,Karnataka,2,villa,80.0,False,False,False,False,False,SYNTHETIC
+H0295,Rajasthan,2,villa,62.0,False,True,True,False,True,SYNTHETIC
+H0296,Maharashtra,5,house,89.0,False,True,True,False,True,SYNTHETIC
+H0297,Tamil Nadu,1,villa,210.0,False,False,False,False,True,SYNTHETIC
+H0298,Rajasthan,3,house,135.0,True,True,True,False,True,SYNTHETIC
+H0299,Delhi,4,house,108.0,False,True,False,False,True,SYNTHETIC
+H0300,Maharashtra,3,villa,291.0,False,True,True,False,False,SYNTHETIC

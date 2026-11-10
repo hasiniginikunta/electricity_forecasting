@@ -28,6 +28,11 @@ public class HouseholdController {
         return ResponseEntity.ok(householdService.getById(id));
     }
 
+    @GetMapping("/user/{userId}")
+    ResponseEntity<HouseholdResponse> getByUserId(@PathVariable Long userId) {
+        return ResponseEntity.ok(householdService.getByUserId(userId));
+    }
+
     @PutMapping("/{id}")
     ResponseEntity<HouseholdResponse> update(@PathVariable Long id, @Valid @RequestBody HouseholdRequest req) {
         return ResponseEntity.ok(householdService.update(id, req));
